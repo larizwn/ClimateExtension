@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "name": "Climate Extension",
+    "description": "Extensão Clima em SP",
+    "author": "Larissa Soares de Almeida",
+    "browser_action": {
+        "default_title": "Clima São Paulo",
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    }
+}
